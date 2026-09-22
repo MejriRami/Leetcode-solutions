@@ -6,9 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/MejriRami/Leetcode-solutions/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/MejriRami/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/MejriRami/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/MejriRami/Leetcode-solutions/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
