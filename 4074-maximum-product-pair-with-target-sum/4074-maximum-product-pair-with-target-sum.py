@@ -1,4 +1,4 @@
-class Solution:
+"""class Solution:
     def maxProductPair(self, nums: list[int], target: int) -> list[int]:
         n = len(nums)
         maximum = float('-inf')
@@ -13,4 +13,22 @@ class Solution:
                             k, l = i, j
                         else:
                             k, l = j, i
-        return [k, l]
+        return [k, l]"""
+
+
+class Solution:
+    def maxProductPair(self, nums: list[int], target: int) -> list[int]:
+        pos = {}
+        for i, x in enumerate(nums):
+            if x not in pos:
+                pos[x] = i          # remember one index for each value
+
+        best = float('-inf')
+        ans = [-1, -1]
+        for x in pos:
+            y = target - x
+            if y in pos and x > y:
+                if x * y > best:
+                    best = x * y
+                    ans = [pos[x], pos[y]]
+        return ans
