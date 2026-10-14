@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/MejriRami/Leetcode-solutions/tree/master/0709-to-lower-case) |
 ## Geometry
 |  |
@@ -65,9 +66,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
