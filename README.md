@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/MejriRami/Leetcode-solutions/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/MejriRami/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/MejriRami/Leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/MejriRami/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -22,11 +23,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/MejriRami/Leetcode-solutions/tree/master/0661-image-smoother) |
+| [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 ## Math
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/MejriRami/Leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/MejriRami/Leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Simulation
@@ -45,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/MejriRami/Leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 ## Polygons
 |  |
 | ------- |
