@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/MejriRami/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/MejriRami/Leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-largest-triangle-area](https://github.com/MejriRami/Leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/MejriRami/Leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Simulation
 |  |
 | ------- |
@@ -47,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/MejriRami/Leetcode-solutions/tree/master/0812-largest-triangle-area) |
+## Enumeration
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/MejriRami/Leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/MejriRami/Leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
