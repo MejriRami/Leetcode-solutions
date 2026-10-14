@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MejriRami/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0812-largest-triangle-area](https://github.com/MejriRami/Leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MejriRami/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -86,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/MejriRami/Leetcode-solutions/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MejriRami/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
