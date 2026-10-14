@@ -33,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/MejriRami/Leetcode-solutions/tree/master/1046-last-stone-weight) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/MejriRami/Leetcode-solutions/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
