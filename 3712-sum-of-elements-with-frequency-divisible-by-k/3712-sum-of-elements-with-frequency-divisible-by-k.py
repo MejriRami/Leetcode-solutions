@@ -1,4 +1,4 @@
-from typing import List
+"""from typing import List
 
 class Solution:
     def sumDivisibleByK(self, nums: List[int], k: int) -> int:
@@ -14,3 +14,10 @@ class Solution:
             if d[e] % k == 0:
                 total += e * d[e]
         return total
+        """
+from collections import Counter
+
+class Solution:
+    def sumDivisibleByK(self, nums: List[int], k: int) -> int:
+        count = Counter(nums)
+        return sum(e * c for e, c in count.items() if c % k == 0)
