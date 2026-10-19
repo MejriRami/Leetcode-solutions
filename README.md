@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/MejriRami/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/MejriRami/Leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Prefix Sum
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/MejriRami/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/MejriRami/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0806-number-of-lines-to-write-string](https://github.com/MejriRami/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Geometry
 |  |
 | ------- |
@@ -78,11 +80,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/MejriRami/Leetcode-solutions/tree/master/0500-keyboard-row) |
+| [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Bit Manipulation
 |  |
