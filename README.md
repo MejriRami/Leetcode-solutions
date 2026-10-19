@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/MejriRami/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3707-equal-score-substrings](https://github.com/MejriRami/Leetcode-solutions/tree/master/3707-equal-score-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/MejriRami/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0806-number-of-lines-to-write-string](https://github.com/MejriRami/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [3707-equal-score-substrings](https://github.com/MejriRami/Leetcode-solutions/tree/master/3707-equal-score-substrings) |
 ## Geometry
 |  |
 | ------- |
