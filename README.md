@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1175-prime-arrangements](https://github.com/MejriRami/Leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MejriRami/Leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/MejriRami/Leetcode-solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3697-compute-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
