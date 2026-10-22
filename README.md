@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/MejriRami/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/MejriRami/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3697-compute-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/MejriRami/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/MejriRami/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/MejriRami/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Dynamic Programming
 |  |
 | ------- |
