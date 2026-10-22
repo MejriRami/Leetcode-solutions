@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/MejriRami/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/MejriRami/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/MejriRami/Leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/MejriRami/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/MejriRami/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/MejriRami/Leetcode-solutions/tree/master/0661-image-smoother) |
+| [0867-transpose-matrix](https://github.com/MejriRami/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 ## Math
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/MejriRami/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/MejriRami/Leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [0867-transpose-matrix](https://github.com/MejriRami/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [3701-compute-alternating-sum](https://github.com/MejriRami/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
