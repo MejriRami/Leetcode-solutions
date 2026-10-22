@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/MejriRami/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MejriRami/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3697-compute-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
@@ -164,5 +165,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MejriRami/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MejriRami/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MejriRami/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
