@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/MejriRami/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3697-compute-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/MejriRami/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1175-prime-arrangements](https://github.com/MejriRami/Leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MejriRami/Leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3697-compute-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/MejriRami/Leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
