@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/MejriRami/Leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MejriRami/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/MejriRami/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0806-number-of-lines-to-write-string](https://github.com/MejriRami/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3707-equal-score-substrings](https://github.com/MejriRami/Leetcode-solutions/tree/master/3707-equal-score-substrings) |
 ## Geometry
 |  |
