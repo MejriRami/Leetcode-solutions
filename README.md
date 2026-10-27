@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/MejriRami/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/MejriRami/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0806-number-of-lines-to-write-string](https://github.com/MejriRami/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/MejriRami/Leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MejriRami/Leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2278-percentage-of-letter-in-string](https://github.com/MejriRami/Leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/MejriRami/Leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/MejriRami/Leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Number Theory
 |  |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/MejriRami/Leetcode-solutions/tree/master/0860-lemonade-change) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/MejriRami/Leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sliding Window
 |  |
 | ------- |
