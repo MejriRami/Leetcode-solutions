@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MejriRami/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MejriRami/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/MejriRami/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MejriRami/Leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/MejriRami/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MejriRami/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MejriRami/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
