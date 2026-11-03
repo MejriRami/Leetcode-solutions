@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/MejriRami/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MejriRami/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MejriRami/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/MejriRami/Leetcode-solutions/tree/master/0495-teemo-attacking) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/MejriRami/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/MejriRami/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MejriRami/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
