@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MejriRami/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/MejriRami/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3697-compute-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/MejriRami/Leetcode-solutions/tree/master/3099-harshad-number) |
 | [3360-stone-removal-game](https://github.com/MejriRami/Leetcode-solutions/tree/master/3360-stone-removal-game) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3697-compute-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MejriRami/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/MejriRami/Leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/MejriRami/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/MejriRami/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MejriRami/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MejriRami/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -182,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0392-is-subsequence](https://github.com/MejriRami/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MejriRami/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/MejriRami/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Euclidean Algorithm
 |  |
 | ------- |
