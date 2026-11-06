@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2747-count-zero-request-servers](https://github.com/MejriRami/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2917-find-the-k-or-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2917-find-the-k-or-of-an-array) |
+| [2923-find-champion-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/2923-find-champion-i) |
 | [2942-find-words-containing-character](https://github.com/MejriRami/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MejriRami/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/MejriRami/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+| [2923-find-champion-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/2923-find-champion-i) |
 ## Math
 |  |
 | ------- |
