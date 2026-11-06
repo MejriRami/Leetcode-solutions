@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MejriRami/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2747-count-zero-request-servers](https://github.com/MejriRami/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MejriRami/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/MejriRami/Leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/MejriRami/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2747-count-zero-request-servers](https://github.com/MejriRami/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MejriRami/Leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/MejriRami/Leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2747-count-zero-request-servers](https://github.com/MejriRami/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Bit Manipulation
 |  |
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/MejriRami/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MejriRami/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Euclidean Algorithm
