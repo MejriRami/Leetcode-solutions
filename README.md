@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/MejriRami/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/MejriRami/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MejriRami/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MejriRami/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/MejriRami/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1748-sum-of-unique-elements](https://github.com/MejriRami/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MejriRami/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MejriRami/Leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/MejriRami/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/MejriRami/Leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MejriRami/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MejriRami/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
