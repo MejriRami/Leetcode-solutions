@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2747-count-zero-request-servers](https://github.com/MejriRami/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/MejriRami/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [2917-find-the-k-or-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/MejriRami/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MejriRami/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/MejriRami/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2917-find-the-k-or-of-an-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
