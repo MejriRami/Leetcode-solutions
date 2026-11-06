@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MejriRami/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3978-unique-middle-element](https://github.com/MejriRami/Leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/MejriRami/Leetcode-solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/MejriRami/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MejriRami/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MejriRami/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Sorting
 |  |
 | ------- |
