@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/MejriRami/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/MejriRami/Leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2937-make-three-strings-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/MejriRami/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3707-equal-score-substrings](https://github.com/MejriRami/Leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3894-traffic-signal-color](https://github.com/MejriRami/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
