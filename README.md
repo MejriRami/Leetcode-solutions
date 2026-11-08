@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/MejriRami/Leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1267-count-servers-that-communicate](https://github.com/MejriRami/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MejriRami/Leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/MejriRami/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/MejriRami/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/MejriRami/Leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+| [1267-count-servers-that-communicate](https://github.com/MejriRami/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2923-find-champion-i](https://github.com/MejriRami/Leetcode-solutions/tree/master/2923-find-champion-i) |
 ## Math
 |  |
@@ -234,14 +236,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/MejriRami/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MejriRami/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/MejriRami/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MejriRami/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/MejriRami/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MejriRami/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -250,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/MejriRami/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1748-sum-of-unique-elements](https://github.com/MejriRami/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/MejriRami/Leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MejriRami/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
