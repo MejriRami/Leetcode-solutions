@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/MejriRami/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/MejriRami/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/MejriRami/Leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/MejriRami/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/MejriRami/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/MejriRami/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MejriRami/Leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/MejriRami/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/MejriRami/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0806-number-of-lines-to-write-string](https://github.com/MejriRami/Leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/MejriRami/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/MejriRami/Leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/MejriRami/Leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2278-percentage-of-letter-in-string](https://github.com/MejriRami/Leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/MejriRami/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/MejriRami/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/MejriRami/Leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0819-most-common-word](https://github.com/MejriRami/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MejriRami/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1748-sum-of-unique-elements](https://github.com/MejriRami/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MejriRami/Leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/MejriRami/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [1267-count-servers-that-communicate](https://github.com/MejriRami/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1748-sum-of-unique-elements](https://github.com/MejriRami/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/MejriRami/Leetcode-solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
