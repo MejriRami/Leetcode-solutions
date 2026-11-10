@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/MejriRami/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3693-climbing-stairs-ii](https://github.com/MejriRami/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3697-compute-decimal-representation](https://github.com/MejriRami/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/MejriRami/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MejriRami/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/MejriRami/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MejriRami/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MejriRami/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/MejriRami/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
